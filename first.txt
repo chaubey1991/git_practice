@@ -3,3 +3,6 @@ This is for git tutorial:
 git config --global user.name "Nirmal"
 git config --global user.email "chaubeynirmal6@gmail.com"
 git status
+git add --a
+git commit -m "comment"
+git log
